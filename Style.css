@@ -1,0 +1,40 @@
+ 
+.header{
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+  font-family: fantasy;
+}
+body{
+    background-color: gray
+}
+.link{
+    font-family:sans-serif;
+    font-family: fantasy;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 1000px;
+}
+.Grid{
+    background-color: gray;
+    display:flex;
+    flex-wrap: wrap;
+    font-family: fantasy;
+    justify-content: space-evenly;
+}
+.Origami{
+    background-color:white; 
+   
+    font-family: fantasy;
+    display:flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.Grid img{
+    background-color: whitesmoke; 
+border:3px solid black;
+border-radius:10px;
+}
+.Menu{
+    font-family: fantasy;
+}
